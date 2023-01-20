@@ -25,7 +25,7 @@
     <script src="/scripts/jquery.min.js"></script>
     <link rel="stylesheet" src="/dist/output.css" />
     <!-- get lesson.css -->
-    <link rel="stylesheet" href="/css/lessons.css">
+    <link rel="stylesheet" href="lessons.css">
     <!-- favicon -->
     <link rel="shortcut icon" href="/logos/Black and White Vintage Circle Coffee Shop Logo (4).png" type="image/x-icon">
 </head>
